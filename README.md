@@ -1,6 +1,6 @@
 # sarah_voice_assistent
 
-I was just inspired by the idea of ​​creating an assistant for myself, which Mr. Stark from the MCU has.
+I was just inspired by the idea of ​​creating an assistant for myself, which Mr. Stark from the Marvel.
 He had Jarvis, I decided to call mine Sarah.
 
 At the moment, Sarah is able to:
