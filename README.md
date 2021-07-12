@@ -15,6 +15,8 @@ It plays the music until I hit the hot job 'ctrl + alt + i'
 
 - Knows how to independently open a browser and search for a video there in YouTube, as a search query, it also accepts verbal commands
 
+
+
 Я просто вдохновился идеей создать себе помощника, какую имеет и мистер Старк из киновселенной Марвел.
 У него был Джарвис, я свою решил назвать Сара.
 
